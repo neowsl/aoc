@@ -21,6 +21,7 @@ library
   exposed-modules:
     AdventOfCode
     Days.Day01
+    Days.Day02
     Utilities
 
   -- other-modules:
