@@ -22,6 +22,7 @@ library
     AdventOfCode
     Days.Day01
     Days.Day02
+    Days.Day03
     Utilities
 
   -- other-modules:
