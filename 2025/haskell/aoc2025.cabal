@@ -23,6 +23,7 @@ library
     Days.Day01
     Days.Day02
     Days.Day03
+    Days.Day06
     Utilities
 
   -- other-modules:
