@@ -20,8 +20,10 @@
           ]
         );
       in
-      pkgs.mkShell {
-        buildInputs = [ myPython ];
+      {
+        devShells.default = pkgs.mkShell {
+          buildInputs = [ myPython ];
+        };
       }
     );
 }
