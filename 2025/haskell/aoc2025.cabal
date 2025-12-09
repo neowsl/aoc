@@ -24,6 +24,7 @@ library
     Days.Day02
     Days.Day03
     Days.Day06
+    Days.Day09
     Utilities
 
   -- other-modules:
